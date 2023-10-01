@@ -1,0 +1,9 @@
+1. How to detect a shape in a picture using python.
+2. How to apply parameter and centroid on a rectangle or square.
+3. How to seperate two images on the basic of more darkness factor.
+4. How to distinguish two images, one is blur, one is original using openCV.
+5. How to distinguish different color rows in an image. 
+6. Writting centroid in image.
+7. How to seperate an image in different parts using openCV. 
+8. How to mark different parts in an image in openCV.
+9. Write a function that determines the percentage area of each bar covered by the red arrow.
